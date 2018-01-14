@@ -26,10 +26,10 @@ Download this package in the _src_ folder of your ROS workspace
 
 Compile the package
 
-```cd gazebo_basic_world_plugin```
-```mkdir build && cd build```
-```cmake ..```
-```make```
+```cd gazebo_basic_world_plugin```  
+```mkdir build && cd build```  
+```cmake ..```  
+```make```  
 
 ### **Get this book** (in pre-order)
 - [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
